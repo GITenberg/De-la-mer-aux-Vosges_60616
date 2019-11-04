@@ -1,0 +1,28 @@
+_repo: De-la-mer-aux-Vosges_60616
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Bouroux, Pierre-Adrien
+    gutenberg_agent_id: '51056'
+    url: http://www.gutenberg.org/2009/agents/51056
+creator:
+  author:
+    agent_name: Nohain, Franc
+    gutenberg_agent_id: '51055'
+    url: http://www.gutenberg.org/2009/agents/51055
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR La Première Guerre Mondiale, 1914-1918
+gutenberg_issued: '2019-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60616'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: De la mer aux Vosges
+url: http://www.gutenberg.org/ebooks/60616
